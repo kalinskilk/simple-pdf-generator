@@ -1,6 +1,6 @@
 # UMA APLICAÇÃO SIMPLES PARA GERAR PDFS A PARTIR DE UM ARQUIVO HTML
 
-Esta é um aplicação simples que gera arquivos PDF partir de um arquivo HTML.
+Esta é um aplicação simples que gera arquivos PDF a partir de um arquivo HTML.
 
 As tecnologias utilizadas foram:
 
